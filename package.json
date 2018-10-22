@@ -1,0 +1,11 @@
+{
+  "name": "@mathrec/bldrs",
+  "version": "1.0.1",
+  "description": "simple html and svg runtime builder utility",
+  "main": "bldrs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dan mackinnon",
+  "license": "ISC"
+}
